@@ -9,5 +9,6 @@ public class Tests {
         System.out.println("分支");
         System.out.println("分支2");
         System.out.println("分支3");
+        System.out.println("分支4");
     }
 }
