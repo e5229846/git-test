@@ -5,5 +5,6 @@ public class Tests {
         System.out.println("git");
         System.out.println("仓库");
         System.out.println("v4.0");
+        System.out.println("hasune");
     }
 }
