@@ -6,5 +6,6 @@ public class Tests {
         System.out.println("仓库");
         System.out.println("v4.0");
         System.out.println("hasune");
+        System.out.println("分支");
     }
 }
